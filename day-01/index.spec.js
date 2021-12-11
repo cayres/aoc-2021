@@ -8,7 +8,7 @@ describe("day 01: given the input [199, 200, 208, 210, 200, 207, 240, 269, 260, 
     expect(result).toBe(7)
   })
 
-  test("the sum of a three measurement sliding window to the first index is 618",() => {
+  test("the sum of a three measurement sliding window to the first index is 607",() => {
     const firstValueSum = sumThreeMeasurement(input, 0);
 
     expect(firstValueSum).toBe(607)
