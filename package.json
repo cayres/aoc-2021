@@ -1,0 +1,14 @@
+{
+  "name": "aoc-2021",
+  "version": "1.0.0",
+  "description": "Advent of code 2021 with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Cayres",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
